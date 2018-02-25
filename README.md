@@ -1,4 +1,4 @@
-![Natsuki Shimeji for Linux](http://i.imgur.com/efHyX.png "Natsuki Shimeji for Linux")
+![Natsuki Shimeji for Linux](https://raw.githubusercontent.com/d3suu/linux-natsuki-shimeji/master/img/shime33.png "Natsuki Shimeji for Linux")
 Natsuki Shimeji for Linux
 =================
 
