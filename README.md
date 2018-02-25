@@ -1,10 +1,12 @@
-![Shimeji for Linux](http://i.imgur.com/efHyX.png "Shimeji for Linux")
-Shimeji for Linux
+![Natsuki Shimeji for Linux](http://i.imgur.com/efHyX.png "Natsuki Shimeji for Linux")
+Natsuki Shimeji for Linux
 =================
 
 This is a Linux version of the popular desktop mascot program, Shimeji.
 
 I appreciate any bug reports or suggestions. Use the issue tracker here or contact me directly on IRC (Rizon) where I'm called 'asdfman'.
+
+This fork is made by me (d3s), everything i did was to port Natsuki from DDLC Shimeji Pack by Childish-N to this linux version. https://childish-n.deviantart.com/art/DDLC-Shimeji-Pack-718209813
 
 
 Changelog
